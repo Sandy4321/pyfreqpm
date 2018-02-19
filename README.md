@@ -11,7 +11,7 @@ This is a frequent pattern mining framework implementing the following algorithm
 **Usage**
 
 ```python
->>> from pyfreqpm.pyfreqpm import FreqPM
+>>> from pyfreqpm import FreqPM
 >>> dataset = [['i1', 'i2'],
 >>>            ['i1', 'i3'],
 >>>            ['i1', 'i2']] # list of all transactions
